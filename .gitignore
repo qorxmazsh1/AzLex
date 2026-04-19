@@ -1,0 +1,6 @@
+Docs/
+law_data/
+__pycache__/
+*.pyc
+.env
+venv/
