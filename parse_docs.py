@@ -72,7 +72,7 @@ def chunk_text(text, chunk_size=1000, overlap=200):
         chunks.append(text[start:end].strip())
         start += chunk_size - overlap
 
-    return [c for c in chunks if len(c) > 50]  # Remove very short chunks
+    return [c for c in chunks if len(c) > 50]  
 
 
 def get_law_name(filename):
