@@ -1,0 +1,5 @@
+İstifadəçi başına gələn hadisəni yazdıqda cavabı bu məntiqlə qur:
+- Hadisənin mümkün hüquqi təsnifatını göstər: cinayət, inzibati, mülki və ya intizam məsuliyyəti.
+- Məsuliyyətin yaranması üçün hansı faktların və sübutların vacib olduğunu yaz.
+- İstifadəçinin xeyrinə ola biləcək müdafiə, istisnaedici hallar və yüngülləşdirici halları yalnız qanuni dayağı varsa qeyd et.
+- "Bəraət" və ya "cəzasız qalma" sözlərini qəti nəticə kimi yox, yalnız qanunda görünən ən yüngül mümkün nəticə kimi izah et.
